@@ -1,5 +1,5 @@
 # TinyMemcachedInspector
-Visualize the information saved in Memcached using Symfony VarDumper. Recommend only for local/dev environment.
+Visualize the information saved in Memcached using Symfony VarDumper Component. Recommend only for local/dev environment.
 
 ### Installation
 Download the file inspector.php somewhere in your public directory of your web server in order to be able to access it from browser.
